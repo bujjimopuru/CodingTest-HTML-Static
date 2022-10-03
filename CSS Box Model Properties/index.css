@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.leaf-button{
+    background-color: #007854;
+    position: absolute;
+    left: 30%;
+    top:10%;
+    transform: translate(-20%,-10%);
+    width: 150px;
+    height: 150px;
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+    padding: 2px;
+        border-top-left-radius: 120px 0;
+        border-top-right-radius: 120px 0;
+        border-bottom-right-radius: 120px;
+
+
+}
+.dotted-rec{
+    border-style: dashed;
+    background-color: #ffd0b5;
+    border-color: #841003;
+       color: black;
+    font-family: "Roboto";
+    border-radius: 1px;
+        padding: 2px;
+
+}
+.dotted-sq{
+     border-style: dotted;
+    background-color: #fab8d9;
+    border-color: #5c0b33;
+    height: 35px;
+    border-width: 5px;
+    border-radius: 4px;
+     color: black;
+    font-family: "Roboto";
+        padding: 2px;
+
+}
+.dotted-round{
+    background-color: white;
+    border-color: #0c6b58;
+    height: 60px;
+    width: 60px;
+    border-width: 4px;
+    border-radius: 50px; 
+     color: black;
+    font-family: "Roboto";
+    border-style: solid;
+        padding: 2px;
+
+}
