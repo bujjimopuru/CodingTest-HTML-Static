@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.hd1{
+    background-image: url('https://assets.ccbp.in/frontend/static-website/beach-1-img.png');
+    height: 200px;
+    width: 200px;
+    background-size:cover;
+    color: white;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 28px;
+    
+}
+.hd2{
+    background-image: url('https://assets.ccbp.in/frontend/static-website/beach-2-img.png');
+    height: 250px;
+    width: 250px;
+    background-size:cover;
+    color: white;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 28px;
+    
+}
+.hd3{
+    background-image: url('https://assets.ccbp.in/frontend/static-website/beach-3-img.png');
+    height: 300px;
+    width: 300px;
+    background-size:cover;
+    
+}
+.hd11{
+  color: white;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 28px;
+      
+}
+.hd22{
+  color: white;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 28px;
+      
+}
+.hd33{
+  color: white;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 28px;
+      
+}
